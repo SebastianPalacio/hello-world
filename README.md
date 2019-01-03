@@ -1,2 +1,3 @@
 # hello-world
 Learning how to use GitHub
+My name is Sebastian. I'm new to programming. I was learning Python for 1 month or so. Naturally, 1 month is too short a period to learn anything substantial, but then my curiosity would have never been piqued the way it was! I'm currently learning Web Development, so I will leave all programming for when I start learning JavaScript. I'm only using freeCodeCamp at the moment (apart from Google... which usually leads me to Stack Overflow). I know this journey is going to be really really long, but as I've always said, the most important step is the first one, and I've already taken it! (: I also love to read and video games (oh, and languages!).
